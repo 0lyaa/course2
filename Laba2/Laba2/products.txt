@@ -1,0 +1,22 @@
+Tomatoes,23,vegetables
+Beef,150,meat
+Potato,25,vegetables
+Onion,10,vegetables
+Raspberry,32,berries
+Beets,13,vegetables
+Carrot,15,vegetables
+Chicken,123,meat
+Pepper,31,vegetables
+Corn,27,vegetables
+Duck,170,meat
+Arugula,10,vegetables
+Zucchini, 26,vegetables
+Strawberry,34,berries
+Cucumbers,30,vegetables
+Strawberries,50,berries
+Mulberry,23,berries
+Cabbage,12,vegetables
+Parsley,9,vegetables
+Grapes,31,berries
+Garlic, 10,vegetables
+Pork,164,meat

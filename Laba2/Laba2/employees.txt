@@ -1,0 +1,12 @@
+Kukharchuk Shchek Arsenovych,12000,3
+Milchev Yegor Arturovich,21500,7
+Riznyk Dragon Gordyslavovich,32000,11
+Lisovenko Shchastibog Levovych,7300,5
+Trokhimenko Polel Svitanovich,14600,6
+Ternopil Khvalymyr Volodymyrovych,17500,3
+Filipchak Bilovus Sarmatovich,160000,21
+Podushko Oleksa Vitanovich,30000,4
+Yareshko Chernin Vladimirovich,5400,1
+Budnyk Yaroslav Azarovych,17000,3
+Kruk Malyk Vladimirovich,27000,4
+Kryshtal Pereyaslav Tarasovych,23000,3
